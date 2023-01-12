@@ -1,4 +1,4 @@
-### <div align="center">I'm Devind Dev, A JavaScript developer currently in my first Year of Compsci at TRU!</div>  
+### <br><div align="center">I'm Devind Dev, A JavaScript developer currently in my first Year of Compsci at TRU!</div>  
 <br>
 
 - 🔭 I’m currently working on Project Vivian  
