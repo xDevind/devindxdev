@@ -12,8 +12,7 @@
 
 - ⚡ Fun fact: You're reading this right now  
   
-
-<br/>  
+  
 ## Side Projects 👨‍💻
 
 - Project Vivian
