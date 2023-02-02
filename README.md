@@ -14,3 +14,17 @@
   
 
 <br/>  
+## Side Projects 👨‍💻
+
+- Project Vivian
+
+- ThrottleBot
+
+- ThrottleBot-Verification
+
+
+## Education 📚
+
+- Currently studying Computer Science at Thompson Rivers University, Canada
+- Sreyas Public School, India. 
+- Indian School Muscat, Oman
